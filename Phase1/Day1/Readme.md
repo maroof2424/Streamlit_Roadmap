@@ -1,6 +1,3 @@
-Great, Maroof! Let’s start **Day 1** of your **Streamlit roadmap**.
-
----
 
 ## 🎯 **Day 1 Goal:**
 
